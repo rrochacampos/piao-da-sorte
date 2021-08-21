@@ -1,0 +1,18 @@
+C:\workspace\Projetos em C#\JogoPiao - Copia\Tind\bin\Debug\Tind.exe.config
+C:\workspace\Projetos em C#\JogoPiao - Copia\Tind\bin\Debug\Tind.exe
+C:\workspace\Projetos em C#\JogoPiao - Copia\Tind\bin\Debug\Tind.pdb
+C:\workspace\Projetos em C#\JogoPiao - Copia\Tind\obj\Debug\Tind.FormJogo.resources
+C:\workspace\Projetos em C#\JogoPiao - Copia\Tind\obj\Debug\Tind.Properties.Resources.resources
+C:\workspace\Projetos em C#\JogoPiao - Copia\Tind\obj\Debug\JogoPiao.csproj.GenerateResource.Cache
+C:\workspace\Projetos em C#\JogoPiao - Copia\Tind\obj\Debug\Tind.exe
+C:\workspace\Projetos em C#\JogoPiao - Copia\Tind\obj\Debug\Tind.pdb
+C:\workspace\Projetos em C#\jogo-piao\Tind\bin\Debug\JogoPiao.exe.config
+C:\workspace\Projetos em C#\jogo-piao\JogoPiao\obj\Debug\JogoPiao.Properties.Resources.resources
+C:\workspace\Projetos em C#\jogo-piao\JogoPiao\obj\Debug\JogoPiao.csproj.GenerateResource.Cache
+C:\workspace\Projetos em C#\jogo-piao\JogoPiao\bin\Debug\JogoPiao.exe.config
+C:\workspace\Projetos em C#\jogo-piao\JogoPiao\bin\Debug\JogoPiao.exe
+C:\workspace\Projetos em C#\jogo-piao\JogoPiao\bin\Debug\JogoPiao.pdb
+C:\workspace\Projetos em C#\jogo-piao\JogoPiao\obj\Debug\JogoPiao.FormJogo.resources
+C:\workspace\Projetos em C#\jogo-piao\JogoPiao\obj\Debug\JogoPiao.exe
+C:\workspace\Projetos em C#\jogo-piao\JogoPiao\obj\Debug\JogoPiao.pdb
+C:\workspace\Projetos em C#\jogo-piao\JogoPiao\obj\Debug\JogoPiao.csprojResolveAssemblyReference.cache
